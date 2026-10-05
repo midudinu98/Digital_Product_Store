@@ -15,7 +15,8 @@
 6. JWT Authentication
 7. Pytest
 
-Project Structure<br>
+# Project Structure<br>
+
 Digital_Product_Store/<br>
 │<br>
 ├── app/<br>
